@@ -2,6 +2,8 @@
 
 A responsive food-ordering UI clone built with **React + Tailwind CSS + Redux Toolkit**, featuring live API integration for restaurant listings, menus, cart, Instamart-style products, and Dineout-style browsing.
 
+## LINK- https://swiggy-clone-13.netlify.app/
+
 ## Features
 
 - Home page with Swiggy-inspired sections and modern UI
